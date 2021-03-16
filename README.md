@@ -22,9 +22,9 @@
 
 # <h2>Instalação - Installation</h2>
 
-<p>Obs: Você precisa ter o npm e o node instalados em seu computador.</p>
+Obs: Você precisa ter o [npm e o node](https://nodejs.org/pt/download) instalados em seu computador.
 
-<p>Note: You need to have [npm and node](https://nodejs.org/en/download) installed on your computer.</p>
+Note: You need to have [npm and node](https://nodejs.org/en/download) installed on your computer.
 
 1. Clone o repositório git clone `git@github.com:dev-mariana/node-api-nlw4.git`.
 
