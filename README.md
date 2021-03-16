@@ -22,7 +22,7 @@
 
 # <h2>Instalação - Installation</h2>
 
-Obs: Você precisa ter o [npm e o node](https://nodejs.org/pt/download) instalados em seu computador.
+Obs: Você precisa ter o [npm e o node](https://nodejs.org/en/download) instalados em seu computador.
 
 Note: You need to have [npm and node](https://nodejs.org/en/download) installed on your computer.
 
